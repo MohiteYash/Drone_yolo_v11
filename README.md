@@ -24,15 +24,13 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 ![Confusion Matrix](images/confusion_matrix_normalized.png)
 
 ### 2. Precision-Recall Curve
-![PR Curve](PR_curve.png)
+![PR Curve](images/PR_curve.png)
 
 ### 3. F1-Score Curve
-![F1 Curve](F1_curve.png)
+![F1 Curve](iamges/F1_curve.png)
 
 ### 4. Training Results Summary
-![Training Results](results.png)
-
-If you are using a different folder structure, make sure the images are placed in the same directory as the `README.md` or adjust the paths accordingly.
+![Training Results](images/results.png)
 
 ---
 
@@ -73,11 +71,3 @@ If you are using a different folder structure, make sure the images are placed i
 - **Optimizer**: AdamW
 - **Learning Rate**: 0.01 (with cosine decay)
 
----
-
-## 📬 Contact
-
-For any queries or suggestions, feel free to contact:
-**Yash Mohite**  
-Email: [your email]  
-LinkedIn: [your LinkedIn]
