@@ -1,11 +1,11 @@
 
-# 🚁 Drone Detection using YOLO v11
+# Drone Detection using YOLO v11
 
 This project focuses on detecting drones in images using the YOLO v11 object detection algorithm. The model was trained on a custom dataset and evaluated over 124 epochs, with the best performance achieved at epoch 97.
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric              | Value   |
 |---------------------|---------|
@@ -18,10 +18,10 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 
 ---
 
-## 🖼️ Results & Visualizations
+## Results & Visualizations
 
 ### 1. Confusion Matrix (Normalized)
-![Confusion Matrix](confusion_matrix_normalized.png)
+![Confusion Matrix](images/confusion_matrix_normalized.png)
 
 ### 2. Precision-Recall Curve
 ![PR Curve](PR_curve.png)
