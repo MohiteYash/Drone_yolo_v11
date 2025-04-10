@@ -27,7 +27,7 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 ![PR Curve](images/PR_curve.png)
 
 ### 3. F1-Score Curve
-![F1 Curve](iamges/F1_curve.png)
+![F1 Curve](images/F1_curve.png)
 
 ### 4. Training Results Summary
 ![Training Results](images/results.png)
