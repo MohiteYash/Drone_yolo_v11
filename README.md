@@ -34,7 +34,7 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
@@ -54,7 +54,7 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - **Backbone**: CSPDarkNet (YOLO v11)
 - **Neck**: PANet
@@ -63,7 +63,7 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 ---
 
 
-## 🛠️ Training Details
+## 🛠Training Details
 
 - **Framework**: PyTorch
 - **Input Size**: 640x640
