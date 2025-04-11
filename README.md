@@ -63,7 +63,7 @@ This project focuses on detecting drones in images using the YOLO v11 object det
 ---
 
 
-## 🛠Training Details
+## Training Details
 
 - **Framework**: PyTorch
 - **Input Size**: 640x640
