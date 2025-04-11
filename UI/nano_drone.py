@@ -9,11 +9,11 @@ model = YOLO("Final_drone.pt")
 names = model.names  # class names
 
 # Telegram Bot credentials
-BOT_TOKEN = '8140564783:AAHC9qOUwWBccIxjaGFvxScyiCs2bH6Clqc'     # Replace this
-CHAT_ID = '1165989207'         # Replace this
+BOT_TOKEN = 'bot token'     # Replace this
+CHAT_ID = 'chat id'         # Replace this
 
 # Android IP Webcam stream URL
-ip_webcam_url = "http://192.168.1.43:4747/video"  # Updated to your actual DroidCam port
+ip_webcam_url = "http://ip of your IP camera /video"  # Updated to your actual DroidCam port
 
 def send_telegram_alert(image_path):
     """Sends an image to Telegram."""
